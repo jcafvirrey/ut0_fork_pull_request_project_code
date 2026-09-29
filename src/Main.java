@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Denis Ignat");
         System.out.println("WRITE YOUR NAME (YOU MUST USE A NEW LINE:");
         System.out.println("JUAN CARLOS ALUMBREROS FRESNEDA");
+        System.out.println("Alejandro Melero Ortega");
         System.out.println("LUIS ROMERO GARRIDO");
         System.out.println("ALVARO SERNA LOZANO");
         System.out.println("Ricardo Alcañiz Calero");
